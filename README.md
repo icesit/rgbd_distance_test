@@ -16,6 +16,7 @@
 
 ## What can be tested
 1. stick
+2. box
 
 ## Author
 * *Xue Wuyang*
